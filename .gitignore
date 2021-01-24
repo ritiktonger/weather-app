@@ -130,4 +130,4 @@ dmypy.json
 
 # JMP custom
 .DS_Store
-config.py
+*/config.py
