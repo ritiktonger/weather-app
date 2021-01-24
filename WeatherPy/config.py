@@ -1,1 +1,0 @@
-owm_key = "YOUR KEY HERE"
