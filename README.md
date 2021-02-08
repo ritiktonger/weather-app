@@ -12,4 +12,5 @@ A jupyter notebook that takes the location and weather data from WeatherPy and p
 - A maximum temperature over 70F but under 80F
 - Wind speed less than 10 mph
 - No clouds
+
 The Google Maps API is then used to search for the nearest hotel to each lat/long location, and plots these hotels on a map.  Click the map pins to see the name, city, and country of the hotel.
