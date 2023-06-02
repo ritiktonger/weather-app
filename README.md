@@ -5,7 +5,6 @@ Please provide your own [Open Weather Map](https://openweathermap.org/api) and [
 
 ### WeatherPy
 A jupyter notebook that gets a random set of latitudes and longitudes and finds the corresponding cities using [citipy](https://pypi.org/project/citipy/).  Uses the random cities to find current weather conditions (with temperature min and max) and plots various weather attributes across latitudes.
-Please note that the weather data for this project was collected on 7 February 2021; if you run this notebook during a different time of year, the results may not match up with the discussion/conclusions provided with each plot.
 
 ### VacationPy
 A jupyter notebook that takes the location and weather data from WeatherPy and plots them on a Google Maps figure.  The list of cities is filtered to find locations with 
